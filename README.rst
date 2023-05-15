@@ -621,6 +621,7 @@ any invalid content and go on.
 
 CSS interpretation
 ------------------
+A CSS comprises of style rules that are interpreted by the browser and then applied to the corresponding elements in your document.
 
 * Parse CSS files, ``<style>`` tag contents, and ``style`` attribute
   values using `"CSS lexical and syntax grammar"`_
